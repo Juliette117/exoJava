@@ -1,6 +1,8 @@
 package org.example;
 
-import exercices.TP1.Exercice1.Moyenne;
+import TP1.Exercice1.Moyenne;
+import TP1.Exercice2.prixTTC;
+import TP1.Exercice3.Palindrome;
 
 public class Main {
 
@@ -8,6 +10,7 @@ public class Main {
 
      double[] notes = {10, 12, 17};
         System.out.println(Moyenne.getMoyenne(notes));
+        System.out.println(Palindrome.estUnPalindrome(121));
 
     }
 }

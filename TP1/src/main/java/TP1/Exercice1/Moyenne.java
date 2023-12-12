@@ -1,4 +1,4 @@
-package exercices.TP1.Exercice1;
+package TP1.Exercice1;
 
 public class Moyenne {
 
